@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/MLOps/Experiment-Tracking-Using-MLFlow/mlruns/858625756282145934/c7a9bb70353445b48e3b66ef8787a303/artifacts
+end_time: 1749068202793
+entry_point_name: ''
+experiment_id: '858625756282145934'
+lifecycle_stage: active
+run_id: c7a9bb70353445b48e3b66ef8787a303
+run_name: nosy-midge-311
+run_uuid: c7a9bb70353445b48e3b66ef8787a303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749068202752
+status: 3
+tags: []
+user_id: Ayush

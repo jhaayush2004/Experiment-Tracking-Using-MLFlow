@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1749069085322
+current_stage: Production
+description: ''
+last_updated_timestamp: 1749069500991
+name: Ayush-Model-1
+run_id: 1b2fbb6ccdac40d3883413353d62e139
+run_link: ''
+source: file:///D:/Documents/MLOps/Experiment-Tracking-Using-MLFlow/mlruns/858625756282145934/1b2fbb6ccdac40d3883413353d62e139/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///D:/Documents/MLOps/Experiment-Tracking-Using-MLFlow/mlruns/858625756282145934/1b2fbb6ccdac40d3883413353d62e139/artifacts/random_forest
+user_id: null
+version: 1

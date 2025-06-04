@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/MLOps/Experiment-Tracking-Using-MLFlow/mlruns/858625756282145934/440894c924e1467cac970df4b6981a49/artifacts
+end_time: 1749068203254
+entry_point_name: ''
+experiment_id: '858625756282145934'
+lifecycle_stage: active
+run_id: 440894c924e1467cac970df4b6981a49
+run_name: silent-lynx-101
+run_uuid: 440894c924e1467cac970df4b6981a49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749068203207
+status: 3
+tags: []
+user_id: Ayush

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/MLOps/Experiment-Tracking-Using-MLFlow/mlruns/858625756282145934/9f1db7e74db24accb67f734548f8e920/artifacts
+end_time: 1749068202993
+entry_point_name: ''
+experiment_id: '858625756282145934'
+lifecycle_stage: active
+run_id: 9f1db7e74db24accb67f734548f8e920
+run_name: overjoyed-slug-753
+run_uuid: 9f1db7e74db24accb67f734548f8e920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749068202952
+status: 3
+tags: []
+user_id: Ayush

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/MLOps/Experiment-Tracking-Using-MLFlow/mlruns/334444954482161608/c1072d0d70bd4b8289e24e09023bd6b7/artifacts
+end_time: 1749019018449
+entry_point_name: ''
+experiment_id: '334444954482161608'
+lifecycle_stage: active
+run_id: c1072d0d70bd4b8289e24e09023bd6b7
+run_name: secretive-eel-595
+run_uuid: c1072d0d70bd4b8289e24e09023bd6b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749019012321
+status: 3
+tags: []
+user_id: Ayush

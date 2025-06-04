@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/MLOps/Experiment-Tracking-Using-MLFlow/mlruns/334444954482161608/7711e3a7260b46d486a0034ea84070cb/artifacts
+end_time: 1749017956626
+entry_point_name: ''
+experiment_id: '334444954482161608'
+lifecycle_stage: active
+run_id: 7711e3a7260b46d486a0034ea84070cb
+run_name: polite-bass-61
+run_uuid: 7711e3a7260b46d486a0034ea84070cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749017951323
+status: 3
+tags: []
+user_id: Ayush

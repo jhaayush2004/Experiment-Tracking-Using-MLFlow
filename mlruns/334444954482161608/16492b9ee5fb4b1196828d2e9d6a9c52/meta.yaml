@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/MLOps/Experiment-Tracking-Using-MLFlow/mlruns/334444954482161608/16492b9ee5fb4b1196828d2e9d6a9c52/artifacts
+end_time: 1749017664349
+entry_point_name: ''
+experiment_id: '334444954482161608'
+lifecycle_stage: active
+run_id: 16492b9ee5fb4b1196828d2e9d6a9c52
+run_name: fortunate-hawk-759
+run_uuid: 16492b9ee5fb4b1196828d2e9d6a9c52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749017656396
+status: 3
+tags: []
+user_id: Ayush

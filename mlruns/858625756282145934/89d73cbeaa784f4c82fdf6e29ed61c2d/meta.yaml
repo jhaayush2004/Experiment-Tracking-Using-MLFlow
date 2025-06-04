@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/MLOps/Experiment-Tracking-Using-MLFlow/mlruns/858625756282145934/89d73cbeaa784f4c82fdf6e29ed61c2d/artifacts
+end_time: 1749068202742
+entry_point_name: ''
+experiment_id: '858625756282145934'
+lifecycle_stage: active
+run_id: 89d73cbeaa784f4c82fdf6e29ed61c2d
+run_name: dazzling-eel-609
+run_uuid: 89d73cbeaa784f4c82fdf6e29ed61c2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749068202700
+status: 3
+tags: []
+user_id: Ayush

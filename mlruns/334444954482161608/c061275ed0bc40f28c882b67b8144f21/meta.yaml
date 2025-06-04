@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/MLOps/Experiment-Tracking-Using-MLFlow/mlruns/334444954482161608/c061275ed0bc40f28c882b67b8144f21/artifacts
+end_time: 1749025764235
+entry_point_name: ''
+experiment_id: '334444954482161608'
+lifecycle_stage: active
+run_id: c061275ed0bc40f28c882b67b8144f21
+run_name: bald-conch-33
+run_uuid: c061275ed0bc40f28c882b67b8144f21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749025757664
+status: 3
+tags: []
+user_id: jhaayush2004

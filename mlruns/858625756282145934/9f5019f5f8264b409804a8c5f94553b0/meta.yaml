@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/MLOps/Experiment-Tracking-Using-MLFlow/mlruns/858625756282145934/9f5019f5f8264b409804a8c5f94553b0/artifacts
+end_time: 1749068203094
+entry_point_name: ''
+experiment_id: '858625756282145934'
+lifecycle_stage: active
+run_id: 9f5019f5f8264b409804a8c5f94553b0
+run_name: suave-cub-777
+run_uuid: 9f5019f5f8264b409804a8c5f94553b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749068203052
+status: 3
+tags: []
+user_id: Ayush

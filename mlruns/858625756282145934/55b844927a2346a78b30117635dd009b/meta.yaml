@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/MLOps/Experiment-Tracking-Using-MLFlow/mlruns/858625756282145934/55b844927a2346a78b30117635dd009b/artifacts
+end_time: 1749068202844
+entry_point_name: ''
+experiment_id: '858625756282145934'
+lifecycle_stage: active
+run_id: 55b844927a2346a78b30117635dd009b
+run_name: brawny-worm-795
+run_uuid: 55b844927a2346a78b30117635dd009b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749068202803
+status: 3
+tags: []
+user_id: Ayush

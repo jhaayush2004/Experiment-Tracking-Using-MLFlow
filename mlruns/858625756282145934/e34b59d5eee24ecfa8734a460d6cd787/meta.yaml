@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Documents/MLOps/Experiment-Tracking-Using-MLFlow/mlruns/858625756282145934/e34b59d5eee24ecfa8734a460d6cd787/artifacts
+end_time: 1749068202690
+entry_point_name: ''
+experiment_id: '858625756282145934'
+lifecycle_stage: active
+run_id: e34b59d5eee24ecfa8734a460d6cd787
+run_name: funny-donkey-369
+run_uuid: e34b59d5eee24ecfa8734a460d6cd787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749068202642
+status: 3
+tags: []
+user_id: Ayush
