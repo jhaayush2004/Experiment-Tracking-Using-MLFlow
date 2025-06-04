@@ -1,0 +1,4 @@
+project flow:
+1. pip install mlflow
+2. mlfow ui (create new folder named mlruns)
+3. visit chat: https://chatgpt.com/share/6840b0d9-2afc-8007-aa39-e34bd2159768
